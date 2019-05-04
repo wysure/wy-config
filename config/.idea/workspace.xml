@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39997389-711e-483d-8daa-7407a05aef7c" name="Default Changelist" comment="" />
+    <list default="true" id="39997389-711e-483d-8daa-7407a05aef7c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/wy-config-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-server-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wy-config-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-server-prod.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wy-config-test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-server-test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wy-config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-server.properties" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,17 +20,17 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wysure.properties">
+        <entry file="file://$PROJECT_DIR$/config-server.properties">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wysure-prod.properties">
+        <entry file="file://$PROJECT_DIR$/config-server-prod.properties">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wysure-test.properties">
+        <entry file="file://$PROJECT_DIR$/config-server-test.properties">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -144,16 +149,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556958944829</updated>
-      <workItem from="1556958946314" duration="660000" />
+      <workItem from="1556958946314" duration="925000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="660000" />
+    <option name="totallyTimeSpent" value="925000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="820" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -190,13 +194,13 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wysure-prod.properties">
+    <entry file="file://$PROJECT_DIR$/config-server-prod.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wysure-test.properties">
+    <entry file="file://$PROJECT_DIR$/config-server-test.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wysure.properties">
+    <entry file="file://$PROJECT_DIR$/config-server.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
